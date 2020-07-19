@@ -1,0 +1,184 @@
+﻿农银/co 智盈天下/b 终身/t 寿险/i (/w 万能型/ty )/w 
+农银/co 宝二号/b 两全保险/i (/w 万能型/ty )/w 
+农银/co 财富天下/b 二代/set 年金保险/i 
+农银/co 附加/add 团体/ob 意外伤害/ct 住院津贴/ct 医疗保险/i 
+农银/co 康乐保/b 重大疾病保险/i 
+农银/co 团体/ob 补充/if 医疗保险/i (/w A款/set )/w 
+农银/co 稳得福/b B款/set 养老/ct 年金保险/i 
+农银/co 附加/add 爱一生/b 两全保险/i 
+农银/co 团体/ob 一年定期/t 寿险/i (/w 2008/v )/w 
+农银/co 附加/add 借款人/ob 突发急性病/ct 定期/t 寿险/i 
+农银/co 附加/add 借款人/ob 疾病身故/ct 定期/t 寿险/i 
+农银/co 学生/ob 平安/b 一年定期/t 寿险/i 
+农银/co 珍爱一生/b 终身/t 寿险/i (/w 分红型/ty )/w 
+农银/co 附加/add 爱康/b 两全保险/i 
+农银/co 附加/add 健康保/b 两全保险/i 
+农银/co 旺旺财/b 两全保险/i (/w 分红型/ty )/w (/w A款/set )/w 
+农银/co 年年富贵/b 两全保险/i (/w 分红型/ty )/w 
+农银/co 金凤凰/b 两全保险/i (/w 分红型/ty )/w (/w D款/set )/w 
+农银/co 金牡丹/b 两全保险/i (/w 分红型/ty )/w (/w A款/set )/w 
+农银/co 金牡丹/b 两全保险/i (/w 分红型/ty )/w (/w B款/set )/w 
+农银/co 爱心/b 两全保险/i 
+农银/co 常青树/b 两全保险/i (/w 分红型/ty )/w 
+农银/co 稳得福/b 两全保险/i (/w 分红型/ty )/w 
+农银/co 金牡丹/b 两全保险/i (/w 分红型/ty )/w (/w C款/set )/w (/w 2013/v )/w 
+农银/co 财富天下/b 两全保险/i (/w 分红型/ty )/w 
+农银/co 如意人生/b 两全保险/i (/w 分红型/ty )/w 
+农银/co 鸿福年年/b 年金保险/i (/w 分红型/ty )/w 
+农银/co 团体/ob 年金保险/i (/w 分红型/ty )/w (/w A款/set )/w 
+农银/co 团体/ob 年金保险/i (/w 分红型/ty )/w (/w D款/set )/w 
+农银/co 财富人生/b 年金保险/i (/w 分红型/ty )/w 
+农银/co 金色人生/b 年金保险/i (/w 分红型/ty )/w 
+农银/co 附加/add 幸福相伴/b 终身/t 重大疾病保险/i 
+农银/co 附加/add 珍爱一生/b 终身/t 重大疾病保险/i 
+农银/co 爱康/b 重大疾病保险/i 
+农银/co 附加/add 团体/ob 重大疾病保险/i 
+农银/co 团体/ob 重大疾病保险/i 
+农银/co 附加/add 鸿福/b 豁免保险费/ct 重大疾病保险/i 
+农银/co 健康保/b 重大疾病保险/i 
+农银/co 鸿康/b 重大疾病保险/i (/w 2013/v )/w 
+农银/co 健康人生/b 重大疾病保险/i 
+农银/co 附加/add 意外伤害/ct 住院津贴/ct 医疗保险/i 
+农银/co 附加/add 住院津贴/ct 医疗保险/i 
+农银/co 附加/add 团体/ob 意外伤害/ct 住院津贴/ct 医疗保险/i 
+农银/co 附加/add 吉祥/b 意外伤害/ct 住院津贴/ct 医疗保险/i 
+农银/co 附加/add 意外伤害/ct 医疗保险/i (/w 2009/v )/w (/w A款/set )/w 
+农银/co 附加/add 意外伤害/ct 医疗保险/i (/w 2009/v )/w (/w B款/set )/w 
+农银/co 附加/add 住院费用/ct 医疗保险/i (/w 2009/v )/w (/w A款/set )/w 
+农银/co 附加/add 住院费用/ct 医疗保险/i (/w 2009/v )/w (/w B款/set )/w 
+农银/co 附加/add 爱心/b 长期/t 意外伤害/ct 医疗保险/i 
+农银/co 附加/add 安心/b 意外伤害/ct 医疗保险/i (/w A款/set )/w 
+农银/co 附加/add 安心/b 意外伤害/ct 医疗保险/i (/w B款/set )/w 
+农银/co 附加/add 团体/ob 意外伤害/ct 医疗保险/i 
+农银/co 附加/add 团体/ob 住院/ct 医疗保险/i 
+农银/co 社会医疗企业/ob 补充/if 团体/ob 医疗保险/i 
+农银/co 附加/add 境外/if 旅游/ct 救援/ct 医疗保险/i 
+农银/co 附加/add 建筑工程施工人员/ob 团体/ob 意外伤害/ct 医疗保险/i 
+农银/co 附加/add 旅游/ct 意外伤害/ct 医疗保险/i 
+农银/co 附加/add 学生/ob 平安/b 意外伤害/ct 医疗保险/i 
+农银/co 附加/add 学生/ob 平安/b 住院费用/ct 医疗保险/i 
+农银/co 账户式/if 团体/ob 医疗保险/i 
+农银/co 附加/add 境外/if 旅游/ct 救援/ct 医疗保险/i (/w B款/set )/w 
+农银/co 附加/add 门急诊/ct 团体/ob 医疗保险/i 
+农银/co 附加/add 境外/if 旅游/ct 救援/ct 医疗保险/i (/w C款/set )/w 
+农银/co 附加/add 吉祥/b 意外伤害/ct 医疗保险/i 
+农银/co 附加/add 交通/ct 意外伤害/ct 医疗保险/i 
+农银/co 附加/add 团体/ob 交通/ct 意外伤害/ct 医疗保险/i 
+农银/co 寰宇至尊/b 高端/v 医疗保险/i 
+农银/co 祥瑞/b 意外伤害保险/i 
+农银/co 意外伤害保险/i (/w 2009/v )/w 
+农银/co 附加/add 意外伤害保险/i (/w 2009/v )/w 
+农银/co 附加/add 残疾/ct 意外伤害保险/i 
+农银/co 附加/add 爱心/b 长期/t 意外伤害保险/i 
+农银/co 安心/b 意外伤害保险/i (/w A款/set )/w 
+农银/co 安心/b 意外伤害保险/i (/w B款/set )/w 
+农银/co 团体/ob 意外伤害保险/i 
+农银/co 境外/if 旅游/ct 意外伤害保险/i 
+农银/co 建筑工程施工人员/ob 团体/ob 意外伤害保险/i 
+农银/co 旅游/ct 意外伤害保险/i 
+农银/co 学生/ob 平安/b 意外伤害保险/i 
+农银/co 借款人/ob 意外伤害保险/i 
+农银/co 吉祥/b 意外伤害保险/i 
+农银/co 民用燃气用户/ob 意外伤害保险/i 
+农银/co 交通/ct 意外伤害保险/i (/w 2010/b )/w 
+农银/co 团体/ob 交通/ct 意外伤害保险/i 
+农银/co 境外/if 团体/ob 意外伤害保险/i 
+农银/co 安享尊贵/b 交通/ct 意外伤害保险/i (/w A款/set )/w 
+农银/co 安享尊贵/b 交通/ct 意外伤害保险/i (/w B款/set )/w 
+建筑工程施工人员/ob 团体/ob 意外伤害保险/i 
+爱相守/b 重大疾病保险/i 
+尊贵人生/b 团体/ob 高端/v 医疗保险/i 
+爱相随/b 年金保险/i 
+爱自由/b 两全保险/i 
+专属版/v 爱一生/b 防癌/ct 疾病保险/i 
+鸿福年年/b 年金保险/i (/w 分红型/ty )/w (/w 2014/v )/w 
+农银/co 安心/b 意外伤害保险/i (/w A款/set )/w 
+农银/co 安心/b 意外伤害保险/i (/w B款/set )/w 
+农银/co 附加/add 残疾/ct 意外伤害保险/i 
+农银/co 吉祥/b 意外伤害保险/i 
+农银/co 交通/ct 意外伤害保险/i (/w 2014/v )/w 
+农银/co 借款人/ob 意外伤害保险/i 
+农银/co 境外/if 旅游/ct 意外伤害保险/i 
+农银/co 境外/if 团体/ob 意外伤害保险/i 
+农银/co 团体/ob 交通/ct 意外伤害保险/i 
+农银/co 团体/ob 意外伤害保险/i 
+农银/co 学生/ob 平安/b 意外伤害保险/i 
+农银/co 意外伤害保险/i (/w 2014/v )/w 
+爱无忧/b 两全保险/i 
+附加/add 爱无忧/b 防癌/ct 疾病保险/i 
+农银/co 通一号/b 两全保险/i (/w 万能型/ty )/w 
+农银/co 金穗/b 团体/ob 交通/ct 意外伤害保险/i (/w A款/set )/w 
+农银/co 爱自由/b 两全保险/i 
+农银/co 财富人生/b 年金保险/i (/w 分红型/ty )/w 
+农银/co 财富天下/b 两全保险/i (/w 分红型/ty )/w 
+农银/co 金凤凰/b 两全保险/i (/w 分红型/ty )/w (/w D款/set )/w 
+农银/co 金牡丹/b 两全保险/i (/w 分红型/ty )/w (/w A款/set )/w 
+农银/co 金牡丹/b 两全保险/i (/w 分红型/ty )/w (/w B款/set )/w 
+农银/co 金牡丹/b 两全保险/i (/w 分红型/ty )/w (/w C款/set )/w (/w 2013/v )/w 
+农银/co 金太阳/b 两全保险/i (/w 分红型/ty )/w 
+农银/co 旺旺财/b 两全保险/i (/w 分红型/ty )/w (/w A款/set )/w 
+农银/co 稳得福/b 两全保险/i (/w 分红型/ty )/w 
+农银/co 附加/add 财富宝/b 终身/t 寿险/i (/w 万能型/ty )/w 
+农银/co 金至尊/b 两全保险/i (/w 分红型/ty )/w 
+农银/co 财富永远/b 终身/t 寿险/i 
+农银/co 团体/ob 社保补充/if 医疗保险/i 
+农银/co 尊享/v 团体/ob 健康保障/ct 委托管理产品/i 
+附加/add 爱立方/b 二代/set 重大疾病保险/i 
+附加/add 爱立方/b 特定癌症/ct 疾病保险/i 
+农银/co 爱立方/b 两全保险/i (/w 分红型/ty )/w 
+农银/co 附加/add 爱心/b 长期/t 意外伤害保险/i 
+农银/co 团体/ob 疾病身故/ct 定期/t 寿险/i 
+农银/co 团体/ob 女性/ob 特定疾病保险/i 
+农银/co 附加/add 爱成长/b 长期/t 医疗保险/i 
+农银/co 附加/add 爱成长/b 重大疾病保险/i 
+农银/co 附加/add 境外/if 旅游/ct 救援/ct 医疗保险/i (/w B款/set )/w 
+农银/co 附加/add 境外/if 旅游/ct 救援/ct 医疗保险/i (/w C款/set )/w 
+农银/co 金凤凰/b 两全保险/i (/w 分红型/ty )/w D款/set 
+农银/co 金至尊/b 两全保险/i (/w 分红型/ty )/w 
+农银/co 宝一号/b 两全保险/i (/w 万能型/ty )/w 
+农银/co 鸿福年年/b 年金保险/i (/w 分红型/ty )/w (/w 2014/v )/w 
+农银/co 爱自由/b 两全保险/i 
+农银/co 宝二号/b 两全保险/i (/w 万能型/ty )/w 
+农银/co 附加/add 建筑工程施工人员/ob 团体/ob 意外伤害/ct 医疗保险/i 
+农银/co 附加/add 门急诊/ct 团体/ob 医疗保险/i 
+农银/co 附加/add 团体/ob 交通/ct 意外伤害/ct 医疗保险/i 
+农银/co 附加/add 团体/ob 意外伤害/ct 医疗保险/i 
+农银/co 附加/add 团体/ob 重大疾病保险/i 
+农银/co 附加/add 团体/ob 住院/ct 医疗保险/i 
+农银/co 附加/add 团体/ob 住院/ct 医疗保险/i (/w B款/set )/w 
+农银/co 建筑工程施工人员/ob 团体/ob 意外伤害保险/i 
+农银/co 金宝利/b 年金保险/i (/w 万能型/ty )/w 
+农银/co 金穗/b 团体/ob 交通/ct 意外伤害保险/i (/w A款/set )/w 
+农银/co 境外/if 团体/ob 意外伤害保险/i 
+农银/co 康爱保/b 短期/t 恶性肿瘤/ct 疾病保险/i 
+农银/co 团体/ob 交通/ct 意外伤害保险/i 
+农银/co 团体/ob 年金保险/i (/w 分红型/ty )/w A款/set 
+农银/co 团体/ob 年金保险/i (/w 分红型/ty )/w D款/set 
+农银/co 团体/ob 一年定期/t 寿险/i (/w 2008/v )/w 
+农银/co 团体/ob 意外伤害保险/i 
+农银/co 团体/ob 重大疾病保险/i 
+农银/co 尊贵人生/b 团体/ob 高端/v 医疗保险/i 
+附加/add 财富宝/b 终身/t 寿险/i (/w 万能型/ty )/w 
+附加/add 同康/b 防癌/ct 疾病保险/i 
+附加/add 同悦/b 重大疾病保险/i 
+农银/co 金穗1号/b 年金保险/i (/w 分红型/ty )/w 
+农银/co 金太阳/b B款/set 养老/ct 年金保险/i 
+农银/co 通一号/b 两全保险/i (/w 万能型/ty )/w 
+农银/co 爱宝贝/b 母婴/ob 特定疾病保险/i 
+农银/co 财富永远/b 终身/t 寿险/i (/w 2017/v )/w 
+农银/co 惠康/b 团体/ob 终身/t 重大疾病保险/i 
+农银/co 惠康/b 终身/t 重大疾病保险/i 
+农银人寿/co 爱相随/b 年金保险/i (/w 2017/v )/w 
+农银/co 同惠/b 门急诊/ct 医疗保险/i 
+农银/co 爱成长/b 年金保险/i 
+农银/co 爱立方/b 二代/set 两全保险/i 
+农银/co 爱相随/b 年金保险/i 
+农银/co 爱自由/b 二代/set 两全保险/i 
+农银/co 附加/add 爱成长/b 长期/t 医疗保险/i 
+农银/co 附加/add 爱成长/b 重大疾病保险/i 
+农银/co 附加/add 爱立方/b 二代/set 重大疾病保险/i 
+农银/co 附加/add 财富宝/b 年金保险/i (/w 万能型/ty )/w 
+农银/co 附加/add 借款人/ob 定期/t 寿险/i 
+农银/co 金牡丹/b 年金保险/i (/w D款/set )/w 
+农银/co 金牡丹/b 年金保险/i (/w 分红型/ty )/w (/w E款/set )/w 
+农银/co 稳得福/b B款/set 养老/ct 年金保险/i 

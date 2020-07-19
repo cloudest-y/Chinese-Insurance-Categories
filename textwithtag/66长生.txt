@@ -1,0 +1,162 @@
+﻿长生/co 爱飞保/b 航空/ct 意外伤害保险/i 
+长生/co 团体/ob 彩虹桥/b 国际/b 医疗保险/i 
+长生/co 附加/add 寿鑫宝/b 骨折/ct 意外伤害保险/i 
+长生/co 附加/add 鑫天宁/b 定期/t 轻症/ct 疾病保险/i 
+长生/co 附加/add 鑫天宁/b 两全保险/i (/w 分红型/ty )/w 
+长生/co 寿鑫宝/b 恶性肿瘤/ct 疾病保险/i 
+长生/co 鑫天宁/b 多次给付/p 定期/t 重大疾病保险/i 
+福来/b 养老/ct 年金保险/i (/w 万能型/ty )/w 
+附加/add 大学教育/ct 年金保险/i (/w 分红型/ty )/w 
+附加/add 高中教育/ct 年金保险/i (/w 分红型/ty )/w 
+附加/add 广福/b 定期/t 寿险/i 
+附加/add 鸿福/b 两全保险/i (/w 分红型/ty )/w 
+附加/add 豁免保险费/ct 定期/t 寿险/i 
+关心生命/b 终身/t 寿险/i 
+恒丰/b 两全保险/i B款/set (/w 分红型/ty )/w 
+恒隆/b 两全保险/i (/w 分红型/ty )/w 
+恒泰/b 终身/t 寿险/i (/w 分红型/ty )/w 
+金福来/b 团体/ob 养老/ct 年金保险/i (/w 万能型/ty )/w 
+如意宝/b 团体/ob 养老/ct 年金保险/i (/w 万能型/ty )/w 
+瑞丰/b 两全保险/i (/w 分红型/ty )/w 
+团体/ob 定期/t 寿险/i 
+尊贵人生/b 年金保险/i (/w 分红型/ty )/w 
+汇金富/b 投资连结保险/i B款/set 
+红运来/b 两全保险/i (/w 分红型/ty )/w 
+金六顺/b 两全保险/i (/w 分红型/ty )/w 
+金丰年/b 两全保险/i (/w 分红型/ty )/w 
+附加/add 万福/b 定期/t 寿险/i 
+附加/add 增额/p 养老/ct 年金保险/i (/w 分红型/ty )/w 
+金百利/b 年金保险/i (/w 分红型/ty )/w 
+耀万年/b 终身/t 年金保险/i (/w 分红型/ty )/w 
+天润/b 两全保险/i (/w 分红型/ty )/w 
+团体/ob 一年定期/t 寿险/i 
+龙凤呈祥/b 两全保险/i (/w 分红型/ty )/w 
+附加/add 利多/b 两全保险/i (/w 万能型/ty )/w 
+附加/add 鑫天宁/b 两全保险/i (/w 分红型/ty )/w 
+安心宝/b 两全保险/i 
+附加/add 额外给付/p 定期/t 重大疾病保险/i 
+附加/add 儿童/ob 重大疾病保险/i B款/set 
+附加/add 关心生命/b 终身/t 医疗保险/i 
+附加/add 境外旅行/ct 紧急援助及紧急门诊/ct 医疗保险/i 
+附加/add 提前给付/p 定期/t 重大疾病保险/i 
+附加/add 提前给付/p 终身/t 重大疾病保险/i 
+附加/add 天福/b 重大疾病保险/i B款/set 
+附加/add 团体/ob 女性/ob 生育/ct 医疗保险/i (/w C/set )/w 
+附加/add 团体/ob 意外伤害/ct 医疗保险/i (/w D/set )/w 
+附加/add 团体/ob 意外伤害/ct 医疗保险/i (/w E/set )/w 
+附加/add 团体/ob 意外伤害/ct 住院津贴/ct 医疗保险/i (/w D/set )/w 
+附加/add 团体/ob 重大疾病保险/i (/w B/set )/w 
+附加/add 团体/ob 重大疾病保险/i (/w C/set )/w 
+附加/add 完美丽人/b 女性/ob 疾病保险/i B款/set 
+附加/add 真情呵护/b 母婴/ob 疾病保险/i 
+附加/add 住院费用报销/ct 医疗保险/i B款/set 
+附加/add 住院费用报销/ct 医疗保险/i C款/set 
+附加/add 住院津贴/ct 医疗保险/i B款/set 
+附加/add 住院津贴/ct 医疗保险/i C款/set 
+康福达/b 团体/ob 医疗保险/i 
+天祥/b 终身/t 重大疾病保险/i 
+附加/add 团体/ob 女性/ob 生育/ct津贴/ct 医疗保险/i 
+健康达人/b 团体/ob 医疗保险/i 
+健康达人/b 医疗保险/i 
+附加/add 团体/ob 手术津贴/ct 医疗保险/i 
+健康名人/b 团体/ob 医疗保险/i 
+健康名人/b 医疗保险/i 
+附加/add 天润/b 防癌/ct 疾病保险/i 
+附加/add 团体/ob 重大疾病保险/i (/w D/set )/w 
+附加/add 团体/ob 公共保额/b 医疗保险/i 
+附加/add 团体/ob 门急诊/ct 医疗保险/i (/w B/set )/w 
+附加/add 团体/ob 住院费用/ct 报销/ct 医疗保险/i (/w B/set )/w 
+附加/add 团体/ob 综合/if 医疗保险/i (/w B/set )/w 
+附加/add 团体/ob 门急诊/ct 医疗保险/i (/w C/set )/w 
+附加/add 团体/ob 女性/ob 生育/ct 医疗保险/i (/w D/set )/w 
+团体/ob 住院津贴/ct 医疗保险/i (/w C/set )/w 
+附加/add 旅行/ct 意外伤害/ct 医疗保险/i (/w B/set )/w 
+附加/add 鑫天宁/b 定期/t 轻症/ct 疾病保险/i 
+鑫天宁/b 多次给付/p 定期/t 重大疾病保险/i 
+附加/add 安心宝/b 长期/t 意外伤害/ct 医疗保险/i 
+附加/add 团体/ob 意外伤害/ct 医疗保险/i (/w F/set )/w 
+附加/add 团体/ob 意外伤害/ct 住院津贴/ct 医疗保险/i (/w E/set )/w 
+附加/add 意外伤害/ct 费用报销/ct 医疗保险/i C款/set 
+附加/add 意外伤害/ct 费用报销/ct 医疗保险/i D款/set 
+附加/add 意外伤害/ct 住院津贴/ct 医疗保险/i C款/set 
+附加/add 意外伤害/ct 住院津贴/ct 医疗保险/i D款/set 
+康泰宝/b 定期/t 重大疾病保险/i 
+附加/add 团体/ob 重大疾病保险/i (/w E/set )/w 
+附加/add 特别给付/p 意外伤害保险/i 
+附加/add 团体/ob 意外伤害保险/i 
+附加/add 意外伤害保险/i 
+境外旅行/ct 意外伤害保险/i 
+天地任我行/b 公共交通/ct 意外伤害保险/i 
+团体/ob 意外伤害保险/i (/w B/set )/w 
+天佑/b 意外伤害保险/i 
+天康/b 意外伤害保险/i 
+暂时/if 人身意外伤害保险/i 
+附加/add 团体/ob 手术麻醉/b 意外伤害保险/i 
+团体/ob 公共交通/ct 意外伤害保险/i (/w B/set )/w 
+团体/ob 意外伤害保险/i (/w A/set )/w 
+贷无忧/b 意外伤害保险/i 
+旅行/ct 意外伤害保险/i 
+天地逍遥行/b 综合交通/ct 意外伤害保险/i 
+团体/ob 意外伤害保险/i (/w C/set )/w 
+附加/add 意外伤害/ct 费用报销/ct 医疗保险/i E款/set 
+附加/add 意外伤害/ct 住院津贴/ct 医疗保险/i E款/set 
+附加/add 综合交通/ct 意外伤害保险/i 
+天御/b 意外伤害保险/i 
+鑫得益/b 两全保险/i (/w 万能型/ty )/w 
+长生/co 贷无忧/b 意外伤害保险/i B款/set 
+长生/co 附加/add 特别给付/p 意外伤害保险/i B款/set 
+长生/co 附加/add 意外伤害保险/i B款/set 
+长生/co 境外旅行/ct 意外伤害保险/i (/w B/set )/w 
+长生/co 旅行/ct 意外伤害保险/i (/w B/set )/w 
+长生/co 天康/b 意外伤害保险/i B款/set 
+长生/co 附加/add 旅行/ct 意外伤害/ct 医疗保险/i (/w B/set )/w 
+长生/co 鑫天宁/b 多次给付/p 定期/t 重大疾病保险/i 
+长生/co 金运来/b 两全保险/i (/w 分红型/ty )/w 
+长生/co 鑫得益/b 两全保险/i (/w 万能型/ty )/w 
+长生/co 贷无忧/b 意外伤害保险/i B款/set 
+长生/co 附加/add 团体/ob 女性/ob 生育/ct 补充/if 医疗保险/i 
+长生/co 吉星普照/b 两全保险/i 
+长生/co 团体/ob 疾病/ct 定期/t 寿险/i 
+附加/add 团体/ob 意外伤害保险/i (/w B/set )/w 
+附加/add 增利/b 两全保险/i 
+团体/ob 意外伤害保险/i (/w D/set )/w 
+团体/ob 意外身故/ct 定期/t 寿险/i 
+团体/ob 综合交通/ct 意外伤害保险/i 
+稳得益/b 两全保险/i 
+长生/co 附加/add 鑫天宁/b 两全保险/i B款/set (/w 分红型/ty )/w 
+长生/co 附加/add 鑫天宁/b 轻症/ct 疾病保险/i B款/set 
+长生/co 鑫天宁/b 重大疾病保险/i B款/set 
+长生/co 附加/add 特定疾病保险/i 
+长生/co 鑫天祥/b 重大疾病保险/i 
+长生/co 鑫得益三号/b 两全保险/i (/w 万能型/ty )/w 
+长生/co 鑫得益一号/b 两全保险/i (/w 万能型/ty )/w 
+长生/co 鑫得益二号/b 两全保险/i (/w 万能型/ty )/w 
+长生/co 附加/add 金多多/b 两全保险/i (/w 万能型/ty )/w 
+长生/co 附加/add 团体/ob 补充/if 住院/ct 医疗保险/i 
+长生/co 附加/add 团体/ob 意外伤害/ct 医疗保险/i (/w J /set )/w 
+长生/co 附加/add 团体/ob 意外伤害/ct 住院津贴/ct 医疗保险/i (/w J /set )/w 
+长生/co 附加/add 团体/ob 重大疾病保险/i (/w J /set )/w 
+长生/co 福享年年/b 年金保险/i 
+长生/co 附加/add 综合交通/ct 意外身故/ct 定期/t 寿险/i 
+长生/co 鑫喜年年/b 年金保险/i 
+长生/co 团体/ob 意外伤害保险/i (/w J /set )/w 
+长生/co 鹤寿/b 年金保险/i 
+长生/co 如意宝/b 团体/ob 养老/ct 年金保险/i B款/set (/w 万能型/ty )/w 
+长生/co 金福来/b 团体/ob 养老/ct 年金保险/i B款/set (/w 万能型/ty )/w 
+长生/co 附加/add 团体/ob 补充/if 门急诊/ct 医疗保险/i 
+长生/co 玖玖/b 年金保险/i (/w 分红型/ty )/w 
+长生/co 龙凤呈祥/b 两全保险/i B款/set (/w 分红型/ty )/w 
+长生/co 附加/add 轻症/ct 疾病保险/i 
+长生/co 福享年年/b 年金保险/i 
+长生/co 鑫运三号/b 年金保险/i 
+长生/co 彩虹桥/b 国际/b 医疗保险/i 
+长生/co 附加/add 鑫多多/b 年金保险/i (/w 万能型/ty )/w 
+长生/co 鸿寿/b 年金保险/i (/w 分红型/ty )/w 
+长生/co 福享年年五号/b 年金保险/i 
+长生/co 鑫得利五号/b 年金保险/i (/w 万能型/ty )/w 
+长生/co 鑫得益五号/b 年金保险/i (/w 万能型/ty )/w 
+长生/co 彩虹桥/b 国际/b 医疗保险/i 
+长生/co 团体/ob 彩虹桥/b 国际/b 医疗保险/i 
+长生/co 鑫运五号/b 年金保险/i 
+长生/co 爱康保/b 重大疾病保险/i 
+长生/co 吉星普照/b 两全保险/i B款/set 

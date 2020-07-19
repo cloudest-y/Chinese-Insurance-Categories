@@ -1,0 +1,289 @@
+﻿信泰/co 出行保/b 意外伤害保险/i 
+信泰/co 附加/add 富贵年年/b 两全保险/i 
+信泰/co 富贵年年/b 养老/ct 年金保险/i 
+信泰/co 金利来2号/b 终身/t 寿险/i (/w 万能型/ty )/w 
+信泰/co 金利来6号/b 终身/t 寿险/i (/w 万能型/ty )/w 
+信泰/co 金利来7号/b 终身/t 寿险/i (/w 万能型/ty )/w 
+信泰/co 稳利来1号/b 养老/ct 年金保险/i 
+信泰/co 稳利来2号/b 养老/ct 年金保险/i 
+信泰/co 稳利来/b 养老/ct 年金保险/i 
+信泰/co 出行保/b 意外伤害保险/i 
+信泰/co 附加/add 富贵年年/b 两全保险/i 
+信泰/co 富贵年年/b 养老/ct 年金保险/i 
+信泰/co 金利来2号/b 终身/t 寿险/i (/w 万能型/ty )/w 
+信泰/co 金利来6号/b 终身/t 寿险/i (/w 万能型/ty )/w 
+信泰/co 金利来7号/b 终身/t 寿险/i (/w 万能型/ty )/w 
+信泰/co 稳利来1号/b 养老/ct 年金保险/i 
+信泰/co 稳利来2号/b 养老/ct 年金保险/i 
+信泰/co 稳利来/b 养老/ct 年金保险/i 
+信泰/co 手术/ct 意外伤害保险/i 
+信泰/co 百万/b 终身护理保险/i 
+信泰/co 附加/add 康伴金生/b 津贴/ct 医疗保险/i 
+信泰/co 附加/add 康伴金生/b 两全保险/i 
+信泰/co 康伴金生/b 疾病保险/i 
+信泰/co 莫非尔丽/b 癌症/ct 疾病保险/i A款/set 
+信泰/co 莫非尔丽/b 成长无忧/b 疾病保险/i 
+信泰/co 莫非尔丽/b 重大疾病保险/i B款/set 
+信泰/co 莫非尔丽/b 重大疾病保险/i C款/set 
+信泰/co 莫非尔丽/b 重大疾病保险/i D款/set 
+信泰/co 宠物伤害/ct 津贴/ct 医疗保险/i 
+信泰/co 瑞康/b 少儿/ob 防癌/ct 疾病保险/i 
+信泰/co 百万人生/b 年金保险/i/b/b 
+信泰/co 附加/add 恒泰/b 两全保险/i A款/set 
+信泰/co 附加/add 恒泰/b 特定/if 重大疾病保险/i A款/set 
+信泰/co 恒泰/b 重大疾病保险/i A款/set 
+信泰/co 金无忧/b 癌症/ct 疾病保险/i 
+信泰/co 稳利来5号/b 年金保险/i A款/set 
+信泰/co 恒瑞/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 瑞福/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 瑞福/b 两全保险/i (/w 分红型/ty )/w A款/set 
+信泰/co 金瑞/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 一年期/t 团体/ob 定期/t 寿险/i 
+信泰/co 恒喜年年/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 金祥/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 恒馨/b 定期/t 寿险/i 
+信泰/co 附加/add 投保人/ob 豁免保险费/ct 定期/t 寿险/i 
+信泰/co 家居宝/b 住房贷款/ct 定期/t 寿险/i 
+信泰/co 附加/add 定期/t 寿险/i 
+信泰/co 恒泰/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 金祥/b 两全保险/i (/w 分红型/ty )/w A款/set 
+信泰/co 金瑞/b 两全保险/i (/w 分红型/ty )/w A款/set 
+信泰/co 附加/add 金贵/b 两全保险/i 
+信泰/co 世纪星辰/b 两全保险/i 
+信泰/co 爱满溢/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 爱无忧/b 两全保险/i (/w 分红型/ty )/w C款/set 
+信泰/co 大富豪/b 两全保险/i (/w 分红型/ty )/w A款/set 
+信泰/co 恒富通/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 宝利来/b 两全保险/i (/w 万能型/ty )/w A款/set 
+信泰/co 恒宝/b 两全保险/i 
+信泰/co 金实惠/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 富贵人生/b 两全保险/i (/w 分红型/ty )/w A款/set 
+信泰/co 金富贵/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 锦绣前程/b 少儿/ob 两全保险/i (/w 分红型/ty )/w 
+信泰/co 附加/add 投保人/ob 豁免保险费/ct 定期/t 寿险/i A款/set 
+信泰/co 附加/add 金易通/b 两全保险/i (/w 万能型/ty )/w 
+信泰/co 金利来/b 两全保险/i (/w 万能型/ty )/w 
+信泰/co 爱享金生/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 瑞福/b 两全保险/i B款/set 
+信泰/co 附加/add 金易通/b 两全保险/i (/w 万能型/ty )/w A款/set 
+信泰/co 爱驾宝/b 两全保险/i 
+信泰/co 金利来/b 两全保险/i (/w 万能型/ty )/w A款/set 
+信泰/co 学生儿童/ob 定期/t 寿险/i 
+信泰/co 瑞康/b 两全保险/i 
+信泰/co 百万人生/b 两全保险/i A款/set 
+信泰/co 百万人生/b 两全保险/i B款/set 
+信泰/co 爱无忧/b 两全保险/i (/w 分红型/ty )/w E款/set 
+信泰/co 瑞康/b 两全保险/i A款/set 
+信泰/co 团体/ob 年金保险/i (/w 分红型/ty )/w 
+信泰/co 保险金转换/ct 年金保险/i A款/set 
+信泰/co 爱恒远/b 终身/t 养老/ct 年金保险/i (/w 分红型/ty )/w A款/set 
+信泰/co 爱恒远/b 终身/t 养老/ct 年金保险/i (/w 分红型/ty )/w B款/set 
+信泰/co 爱恒远/b 年金保险/i (/w 分红型/ty )/w C款/set 
+信泰/co 附加/add 意外/if 医疗保险/i 
+信泰/co 附加/add 意外/if 住院津贴/ct 团体/ob 医疗保险/i 
+信泰/co 住院费用/ct 补偿/ct 团体/ob 医疗保险/i 
+信泰/co 附加/add 住院津贴/ct 团体/ob 医疗保险/i 
+信泰/co 一年期/t 团体/ob 重大疾病保险/i 
+信泰/co 附加/add 金福/b 重大疾病保险/i 
+信泰/co 附加/add 安福/b 提前给付/p 重大疾病保险/i 
+信泰/co 附加/add 安福/b 提前给付/p 重大疾病保险/i A款/set 
+信泰/co 境外/if 紧急救援/ct 医疗保险/i 
+信泰/co 附加/add 意外/if 团体/ob 医疗保险/i 
+信泰/co 恒祥/b 重大疾病保险/i 
+信泰/co 终身/t 团体/ob 重大疾病保险/i (/w A款/set )/w 
+信泰/co 附加/add 门急诊/ct 团体/ob 医疗保险/i 
+信泰/co 女性/ob 团体/ob 疾病保险/i 
+信泰/co 境内/if 紧急救援/ct 医疗保险/i 
+信泰/co 住院费用补偿/ct 医疗保险/i (/w B型/b )/w 
+信泰/co 住院费用补偿/ct 医疗保险/i (/w A型/b )/w 
+信泰/co 附加/add 恒泰/b 重大疾病保险/i 
+信泰/co 附加/add 景顺/b 意外/if 医疗保险/i 
+信泰/co 附加/add 法定节假日/if 意外/if 医疗保险/i 
+信泰/co 世纪星辰/b 个人/ob 住院/ct 医疗保险/i 
+信泰/co 附加/add 世纪星辰/b 重大疾病/ct 住院/ct 医疗保险/i 
+信泰/co 附加/add 世纪星辰/b 手术/ct 医疗保险/i 
+信泰/co 附加/add 世纪星辰/b 器官移植/b 医疗保险/i 
+信泰/co 无忧/b 健康保障/ct 委托管理产品/i 
+信泰/co 附加/add 定额给付型/b 住院/ct 医疗保险/i 
+信泰/co 附加/add 世纪星辰/b 提前给付/p 重大疾病保险/i 
+信泰/co 附加/add 景顺/b 意外/if 医疗保险/i A款/set 
+信泰/co 美丽人生/b 女性/ob 疾病保险/i 
+信泰/co 附加/add 意外/if 住院津贴/ct 医疗保险/i A款/set 
+信泰/co 附加/add 健康卫士/b 重大疾病保险/i 
+信泰/co 附加/add 安福/b 提前给付/p 重大疾病保险/i B款/set 
+信泰/co 附加/add 爱驾宝/b 意外/if 住院津贴/ct 医疗保险/i 
+信泰/co 附加/add 学生儿童/ob 疾病/ct 住院/ct 费用补偿/ct 医疗保险/i 
+信泰/co 附加/add 学生儿童/ob 疾病/ct 住院津贴/ct 医疗保险/i 
+信泰/co 附加/add 学生儿童/ob 住院/ct 费用补偿/ct 医疗保险/i 
+信泰/co 附加/add 学生儿童/ob 意外/if 医疗保险/i 
+信泰/co 附加/add 学生儿童/ob 意外/if 住院津贴/ct 医疗保险/i 
+信泰/co 附加/add 安康/b 防癌/ct 提前给付/p 疾病保险/i 
+信泰/co 附加/add 意外/if 医疗保险/i A款/set 
+信泰/co 附加/add 意外/if 医疗保险/i B款/set 
+信泰/co 附加/add 意外/if 住院津贴/ct 医疗保险/i B款/set 
+信泰/co 附加/add 住院费用补偿/ct 医疗保险/i A款/set 
+信泰/co 附加/add 住院费用补偿/ct 医疗保险/i B款/set 
+信泰/co 附加/add 住院津贴/ct 医疗保险/i 
+信泰/co 附加/add 额外给付/p 重大疾病保险/i 
+信泰/co 附加/add 瑞康/b 防癌/ct 提前给付/p 疾病保险/i A款/set 
+信泰/co 团体/ob 意外伤害保险/i 
+信泰/co 恒顺/b 意外伤害保险/i 
+信泰/co 建筑施工人员/ob 团体/ob 意外伤害保险/i 
+信泰/co 借款人/ob 意外伤害保险/i 
+信泰/co 景福/b 意外伤害保险/i 
+信泰/co 附加/add 意外伤害保险/i 
+信泰/co 综合交通/ct 意外伤害保险/i 
+信泰/co 交通工具/ct 团体/ob 意外伤害保险/i 
+信泰/co 出行宝/b 意外伤害保险/i 
+信泰/co 景福/b 意外伤害保险/i A款/set 
+信泰/co 景福/b 意外伤害保险/i B款/set 
+信泰/co 私家车驾乘人员/ob 意外伤害保险/i 
+信泰/co 附加/add 爱驾宝/b 意外伤害保险/i 
+信泰/co 学生儿童/ob 意外伤害保险/i 
+信泰/co 附加/add 学生儿童/ob 意外伤害保险/i 
+信泰/co 乘用车/ct 意外伤害保险/i 
+信泰/co 轮船/b 意外伤害保险/i 
+信泰/co 轨道交通/ct 意外伤害保险/i 
+信泰/co 航空/ct 意外伤害保险/i 
+信泰/co 客运汽车/ct 意外伤害保险/i 
+信泰/co 学生/ob 意外伤害保险/i 
+宝利来/b 两全保险/i (/w 万能型/ty )/w 
+宝利来/b 两全保险/i (/w 万能型/ty )/w A款/set 
+金福来/b 终身/t 年金保险/i (/w 分红型/ty )/w 
+百万前程/b 少儿/ob 两全保险/i (/w 分红型/ty )/w 
+附加/add 百万前程/b 少儿/ob 定期/t 寿险/i 
+附加/add 百万前程/b 少儿/ob 额外给付/p 重大疾病保险/i 
+附加/add 大学教育金/ct 两全保险/i (/w 分红型/ty )/w 
+附加/add 高中教育金/ct 两全保险/i (/w 分红型/ty )/w 
+附加/add 婚嫁创业金/b 两全保险/i (/w 分红型/ty )/w 
+附加/add 抗癌/ct 保家/b 疾病保险/i 
+附加/add 少儿/ob 白血病/ct 疾病保险/i 
+附加/add 世纪星辰/b 器官移植/b 医疗保险/i 
+附加/add 世纪星辰/b 手术/ct 医疗保险/i 
+附加/add 世纪星辰/b 重大疾病/ct 住院/ct 医疗保险/i 
+附加/add 意外/if 医疗保险/i B款/set 
+附加/add 意外/if 住院津贴/ct 医疗保险/i B款/set 
+锦绣前程/b 少儿/ob 两全保险/i (/w 分红型/ty )/w A款/set 
+抗癌保/b 两全保险/i 
+世纪星辰/b 个人/ob 住院/ct 医疗保险/i 
+爱驾宝/b 两全保险/i 
+附加/add 抗癌/ct 保家/b 疾病保险/i A款/set 
+抗癌/ct 保家/b 疾病保险/i A款/set 
+抗癌/ct 保家/b 两全保险/i A款/set 
+千万传承/b 保额递增型/b 终身/t 寿险/i 
+金利来/b 两全保险/i (/w 万能型/ty )/w 
+金利来/b 两全保险/i (/w 万能型/ty )/w A款/set 
+金瑞/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 乘用车/ct 意外伤害保险/i 
+信泰/co 出行宝/b 意外伤害保险/i 
+信泰/co 附加/add 学生儿童/ob 意外伤害保险/i 
+信泰/co 附加/add 意外伤害保险/i 
+信泰/co 轨道交通/ct 意外伤害保险/i 
+信泰/co 航空/ct 意外伤害保险/i 
+信泰/co 恒顺/b 意外伤害保险/i 
+信泰/co 建筑施工人员/ob 团体/ob 意外伤害保险/i 
+信泰/co 交通工具/ct 团体/ob 意外伤害保险/i 
+信泰/co 借款人/ob 意外伤害保险/i 
+信泰/co 景福/b 意外伤害保险/i 
+信泰/co 景福/b 意外伤害保险/i A款/set 
+信泰/co 景福/b 意外伤害保险/i B款/set 
+信泰/co 客运汽车/ct 意外伤害保险/i 
+信泰/co 轮船/b 意外伤害保险/i 
+信泰/co 团体/ob 意外伤害保险/i 
+信泰/co 学生/ob 意外伤害保险/i 
+信泰/co 综合交通/ct 意外伤害保险/i 
+信泰/co 百万呵护/b 终身/t 护理保险/i 
+信泰/co 百万呵护/b 终身/t 护理保险/i 一号/b 
+信泰/co 百万/b 女性/ob 疾病保险/i 
+信泰/co 百万前程/b 少儿/ob 两全保险/i (/w 分红型/ty )/w 
+信泰/co 宠物/b 伤害津贴/ct 医疗保险/i 
+信泰/co 附加/add 百万/b 女性/ob 两全保险/i 
+信泰/co 附加/add 乘用车/ct 意外伤害保险/i 
+信泰/co 附加/add 乘用车/ct 意外/if 医疗保险/i 
+信泰/co 附加/add 轨道交通/ct 意外伤害保险/i 
+信泰/co 附加/add 轨道交通/ct 意外/if 医疗保险/i 
+信泰/co 附加/add 航空/ct 意外伤害保险/i 
+信泰/co 附加/add 航空/ct 意外/if 医疗保险/i 
+信泰/co 附加/add 驾驶培训学员/ob 意外/if 医疗保险/i 
+信泰/co 附加/add 驾驶培训学员/ob 意外/if 住院津贴/ct 医疗保险/i 
+信泰/co 附加/add 境内旅行/ct 突发急性病/ct 医疗保险/i 
+信泰/co 附加/add 境内旅行/ct 突发急性病/ct 住院津贴/ct 医疗保险/i 
+信泰/co 附加/add 境内旅行/ct 意外/if 医疗保险/i 
+信泰/co 附加/add 境内旅行/ct 意外/if 住院津贴/ct 医疗保险/i 
+信泰/co 附加/add 境外旅行/ct 急性病/ct 住院津贴/ct 医疗保险/i 
+信泰/co 附加/add 境外旅行/ct 意外/if 住院津贴/ct 医疗保险/i 
+信泰/co 附加/add 客运汽车/ct 意外伤害保险/i 
+信泰/co 附加/add 客运汽车/ct 意外/if 医疗保险/i 
+信泰/co 附加/add 轮船/b 意外伤害保险/i 
+信泰/co 附加/add 轮船/b 意外/if 医疗保险/i 
+信泰/co 附加/add 意外伤害保险/i A款/set 
+信泰/co 附加/add 指定场所人员/ob 意外伤害/ct 医疗保险/i 
+信泰/co 富贵人生/b 年金保险/i (/w 分红型/ty )/w B款/set 
+信泰/co 恒泰/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 恒祥/b 重大疾病保险/i A款/set 
+信泰/co 恒祥/b 重大疾病保险/i 一号/b 
+信泰/co 驾驶培训学员/ob 意外伤害保险/i 
+信泰/co 金福来/b 终身/t 年金保险/i (/w 分红型/ty )/w 
+信泰/co 金利来3号/b 终身/t 寿险/i (/w 万能型/ty )/w 
+信泰/co 金利来/b 两全保险/i (/w 万能型/ty )/w 
+信泰/co 金利来/b 两全保险/i (/w 万能型/ty )/w A款/set 
+信泰/co 境内旅行/ct 意外伤害保险/i 
+信泰/co 抗癌/ct 保家/b 两全保险/i A款/set 
+信泰/co 指定场所人员/ob 意外伤害保险/i 
+信泰/co 爱驾宝/b 两全保险/i A款/set 
+信泰/co 附加/add 金易通/b 两全保险/i (/w 万能型/ty )/w 
+信泰/co 附加/add 金易通/b 两全保险/i (/w 万能型/ty )/w A款/set 
+信泰/co 附加/add 境内旅行/ct 突发急性病/ct 定期/t 寿险/i 
+信泰/co 附加/add 境外旅行/ct 急性病/ct 医疗保险/i 
+信泰/co 附加/add 境外旅行/ct 意外/if 医疗保险/i 
+信泰/co 借款人/ob 定期/t 寿险/i 
+信泰/co 金福来/b 终身/t 年金保险/i (/w 分红型/ty )/w A款/set 
+信泰/co 金利来2号/b 终身/t 寿险/i (/w 万能型/ty )/w 
+信泰/co 金祥/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 境外旅行/ct 意外伤害保险/i 
+信泰/co 莫非尔丽/b 专属/b 抗癌/ct 疾病保险/i 
+信泰/co 金满福/b 终身/t 年金保险/i 1号/b 
+信泰/co 康福长寿/b 养老/ct 年金保险/i 
+富贵满堂/b 年金保险/i 
+金利来3号/b 终身/t 寿险/i (/w 万能型/ty )/w 
+金利来4号/b 终身/t 寿险/i (/w 万能型/ty )/w 
+千万传承/b 终身/t 寿险/i A款/set 
+信泰/co 宝利来/b 两全保险/i (/w 万能型/ty )/w 
+信泰/co 宝利来/b 两全保险/i (/w 万能型/ty )/w A款/set 
+信泰/co 金祥/b 两全保险/i (/w 分红型/ty )/w 
+信泰/co 百万/b 终身/t 护理保险/i 
+信泰/co 附加/add 金易通/b 两全保险/i (/w 万能型/ty )/w 
+信泰/co 附加/add 金易通/b 两全保险/i (/w 万能型/ty )/w A款/set 
+信泰/co 富贵满堂/b 年金保险/i 
+信泰/co 富贵满堂/b 年金保险/i A款/set 
+信泰/co 富贵满堂/b 年金保险/i A款/set (/w 尊享版/v )/w 
+信泰/co 好妈妈/b 疾病保险/i 
+信泰/co 健康100/b 重大疾病保险/i 
+信泰/co 健康100/b 重大疾病保险/i (/w 铂金版/v )/w 
+信泰/co 稳福来/b 年金保险/i 
+信泰/co 稳利来2号/b 年金保险/i A款/set 
+信泰/co 稳利来3号/b 年金保险/i 
+信泰/co 好妈妈/b 疾病保险/i 
+信泰/co 附加/add 驾乘机动车/ct 团体/ob 意外/if 医疗保险/i 
+信泰/co 附加/add 驾乘机动车/ct 团体/ob 意外/if 住院津贴/ct 医疗保险/i 
+信泰/co 驾乘机动车/ct 团体/ob 意外伤害保险/i 
+信泰/co 附加/add 恒泰/b 特定/if 重大疾病保险/i A款/set 
+信泰/co 附加/add 特定/if 重大疾病保险/i 
+信泰/co 恒泰/b 重大疾病保险/i A款/set (/w 尊享版/v )/w 
+信泰/co 富贵年年/b 养老/ct 年金保险/i 
+信泰/co 金无忧/b 癌症/ct 疾病保险/i 
+信泰/co 稳福来/b 年金保险/i 
+信泰/co 稳利来5号/b 年金保险/i A款/set 
+信泰/co 爱驾宝/b 两全保险/i (/w 2017/v )/w 
+信泰/co 附加/add 金管家/b 年金保险/i (/w 万能型/ty )/w 条款/set 
+信泰/co 附加/add 金易通/b 年金保险/i (/w 万能型/ty )/w B款/set 
+信泰/co 附加/add 境外旅行/ct 急性病/ct 医疗保险/i A款/set 
+信泰/co 附加/add 境外旅行/ct 意外/if 医疗保险/i A款/set 
+信泰/co 附加/add 意外/if 团体/ob 医疗保险/i A款/set 
+信泰/co 附加/add 意外/if 住院津贴/ct 团体/ob 医疗保险/i A款/set 
+信泰/co 附加/add 住院津贴/ct 团体/ob 医疗保险/i A款/set 
+信泰/co 富贵满堂/b 年金保险/i B款/set 
+信泰/co 金满福/b 终身/t 年金保险/i 1号/set 
+信泰/co 金无忧/b 癌症/ct 疾病保险/i 
+信泰/co 千万传承/b 终身/t 寿险/i B款/set 
+信泰/co 住院费用补偿/ct 团体/ob 医疗保险/i A款/set 

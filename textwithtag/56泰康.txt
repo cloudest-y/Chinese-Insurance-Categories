@@ -1,0 +1,208 @@
+﻿泰康/co e顺/b (/w 2014/v )/w 交通/ct 意外伤害保险/i 
+泰康/co e顺/b (/w 2014/v )/w 旅行/ct 意外伤害保险/i 
+泰康/co e顺/b (/w 2014/v )/w 意外伤害保险/i 
+泰康/co 附加/add 活力保/b 防癌/ct 提前给付/p 疾病保险/i 
+泰康/co 附加/add 健康人生/b 终身/t 重大疾病保险/i 
+泰康/co 附加/add 祥云康顺/b (/w 2014/v )/w 意外伤害保险/i 
+泰康/co 附加/add 新生活/b 幼儿/ob 免疫/ct 医疗保险/i 
+泰康/co 活力保/b 定期/t 寿险/i 
+泰康人寿/co 附加/add 健康人生/b 终身/t 重大疾病保险/i 
+泰康/co 微互助/b 短期/t 防癌/ct 疾病保险/i 
+泰康/co 新生活/b 幼儿/ob 免疫疾病/ct 身故/ct 定期/t 寿险/i 
+祥云康顺/b B款/set (/w 2014/v )/w 两全保险/i 
+泰康/co 乐宣/b 两全保险/i 
+泰康/co 乘客/ob 意外伤害保险/i 
+泰康/co 出国务工人员/ob 团体/ob 意外伤害保险/i 
+泰康/co 短期/t 意外伤害保险/i (/w C款/set )/w 
+泰康/co 附加/add 残疾/ct 团体/ob 意外伤害保险/i 
+泰康/co 公务旅行/ct 团体/ob 意外伤害保险/i 
+泰康/co 航空旅客/ob B款/set 意外伤害保险/i 
+泰康/co 航空旅客/ob 意外伤害保险/i 
+泰康/co 驾驶乘务人员/ob 团体/ob 意外伤害保险/i 
+泰康/co 建筑工程人员/ob 团体/ob 意外伤害保险/i 
+泰康/co 交通工具乘客/ob 团体/ob 意外伤害保险/i 
+泰康/co 借款人/ob (/w 小额保险版/v )/w 意外伤害保险/i 
+泰康/co 借款人/ob 意外伤害保险/i 
+泰康/co 境内旅行/ct 团体/ob 意外伤害保险/i 
+泰康/co 境外旅行/ct 团体/ob 意外伤害保险/i 
+泰康/co 燃气/b 意外伤害保险/i 
+泰康/co 团体/ob 意外伤害保险/i 
+泰康/co 祥云永泰/b (/w 2014/v )/w 终身/t 年金保险/i (/w 分红型/ty )/w 
+泰康/co 小额/ct 意外伤害保险/i 
+泰康/co 新生活/b 交通工具/ct 意外伤害保险/i 
+泰康/co 新生活/b 境内旅行/ct 意外伤害保险/i 
+泰康/co 新生活/b 境外旅行/ct 意外伤害保险/i 
+泰康/co 新生活/b 意外伤害保险/i 
+泰康/co 学生/ob 平安/b 意外伤害保险/i 
+泰康/co 亿顺/b 意外伤害保险/i 
+泰康/co 综合交通工具/ct 意外伤害保险/i 
+泰康/co 附加/add 蒲公英/b 意外伤害/ct 医疗保险/i 
+泰康/co 全能保/b A款/set 两全保险/i 
+泰康/co 全能保/b B款/set 两全保险/i 
+泰康/co 附加/add 新生活/b 幼儿/ob 免疫/ct (/w B款/set )/w 医疗保险/i 
+泰康/co 特需金/b 团体/ob 医疗保险/i 
+泰康/co 附加/add 家倍保/b C款/set 意外伤害保险/i 
+泰康/co 富足人生/b B款/set 年金保险/i (/w 分红型/ty )/w 
+泰康/co 家倍保/b C款/set 两全保险/i 
+泰康/co 特需医疗金/b 团体/ob 医疗保险/i 
+泰康/co 畅赢人生/b 年金保险/i (/w 分红型/ty )/w 
+泰康/co 微互助/b 短期/t 防癌/ct 疾病保险/i 
+泰康/co 悦享中华/b A款/set 高端/v 医疗保险/i 
+泰康/co 悦享中华/b B款/set 高端/v 医疗保险/i 
+泰康/co e顺/b 高速铁路/ct 意外伤害保险/i 
+泰康/co 乐福/b 2014/v 两全保险/i (/w 分红型/ty )/w 
+附加/add 乐福/b 2014/v 重大疾病保险/i 
+泰康/co 旺财2号/b 两全保险/i (/w 万能型/ty )/w 
+泰康/co 万里无忧/b B款/set 两全保险/i 
+泰康/co 附加/add 祥云康顺/b B款/set 意外伤害/ct 医疗保险/i 
+附加/add 积极稳健/b 终身/t 寿险/i (/w 万能型/ty )/w 
+附加/add 疾病医疗/ct 团体/ob 医疗保险/i 
+附加/add 建筑工程人员/ob 意外伤害/ct 团体/ob 医疗保险/i 
+附加/add 轻症/ct 疾病保险/i 
+附加/add 世纪泰康/co 门急诊/ct 团体/ob 医疗保险/i 
+附加/add 学生/ob 疾病/ct 住院/ct 团体/ob 医疗保险/i 
+附加/add 意外伤害/ct 团体/ob 医疗保险/i 
+蒲公英/b B款/set 门诊/ct 医疗保险/i 
+微互助/b 短期/t 恶性肿瘤/ct 疾病保险/i 
+尊享世家/b 重大疾病保险/i 
+泰康/co 常安/b 终身/t 团体/ob 重大疾病保险/i 
+泰康/co 附加/add 积极稳健/b 定期/t 寿险/i (/w 万能型/ty )/w 
+泰康/co 附加/add 基本/if C款/set 重大疾病保险/i 
+泰康/co 附加/add 全能保/b B款/set 重大疾病保险/i 
+泰康/co 蒲公英/b 门急诊/ct 医疗保险/i 
+泰康/co 优雅人生/b 年金保险/i (/w 分红型/ty )/w 
+泰康/co 附加/add 基本/if D款/set 重大疾病保险/i 
+泰康/co 附加/add 康逸人生/b 重大疾病保险/i 
+泰康/co 附加/add 全能保/b B款/set 重大疾病保险/i 
+泰康/co 附加/add 日日鑫/b 年金保险/i (/w 万能型/ty )/w 
+泰康/co 附加/add 投保人/ob 意外/if 豁免保险费/ct 定期/t 寿险/i 
+泰康/co 附加/add 鑫泰/b 意外/if 豁免保险费/ct 定期/t 寿险/i 
+泰康/co 附加/add 悦悦保/b 意外伤害/ct 医疗保险/i 
+泰康/co 康逸人生/b 两全保险/i 
+泰康/co 祥云嘉顺/b 意外伤害保险/i 
+泰康/co 鑫泰/b 年金保险/i 
+泰康/co 优雅人生/b 年金保险/i (/w 分红型/ty )/w 
+泰康/co 悦悦保/b 意外伤害保险/i 
+泰康/co 智慧理财/b B款/set 终身/t 寿险/i (/w 万能型/ty )/w 
+泰康/co 尊享世家/b 终身/t 寿险/i 
+泰康/co 附加/add 借款人/ob 意外伤害/ct 医疗保险/i 
+泰康/co 附加/add 乐相伴/b 定期/t 寿险/i 
+泰康/co 附加/add 乐鑫/b 年金保险/i (/w 万能型/ty )/w 
+泰康/co 附加/add 新生活/b 交通工具/ct 意外/if 医疗保险/i 
+泰康/co 附加/add 新生活/b 少儿/ob 意外伤害/ct 医疗保险/i 
+泰康/co 附加/add 新生活/b 意外伤害/ct 医疗保险/i 
+泰康/co 附加/add 亿顺/b 意外伤害/ct 医疗保险/i 
+泰康/co 附加/add 盈利宝/b 定期/t 寿险/i 
+泰康/co 老年/ob 恶性肿瘤/ct 疾病保险/i 
+泰康/co 乐鑫/b 两全保险/i (/w 分红型/ty )/w 
+泰康/co 微互助/b 短期/t 恶性肿瘤/ct 疾病保险/i 
+泰康/co 新生活/b 境内旅行/ct 救援/ct 医疗保险/i 
+泰康/co 盈利宝/b 年金保险/i 
+泰康/co 挚爱人生/b 恶性肿瘤/ct 疾病保险/i 
+泰康/co 福寿一生/b 终身/t 寿险/i 
+泰康/co 附加/add e顺/b 交通/ct 意外伤害/ct 医疗保险/i 
+泰康/co 附加/add 呵护一生/b 重大疾病保险/i 
+泰康/co 附加/add 驾驶乘务人员/ob 意外伤害/ct 团体/ob 医疗保险/i 
+泰康/co 附加/add 交通工具乘客/ob 意外伤害/ct 团体/ob 医疗保险/i 
+泰康/co 附加/add 金账户/ob 年金保险/i (/w 万能型/ty )/w 
+泰康/co 附加/add 康悦人生/b B款/set 重大疾病保险/i 
+泰康/co 境内旅行/ct 救援/ct 团体/ob 医疗保险/i 
+泰康/co 康悦人生/b B款/set 两全保险/i (/w 分红型/ty )/w 
+泰康/co 尊享世家/b 终身/t 寿险/i 
+泰康/co 尊享世家/b 重大疾病保险/i 
+泰康/co 附加/add 全能保/b C款/set 重大疾病保险/i 
+泰康/co 附加/add 意外伤害/ct 医疗保险/i 
+泰康/co 富足人生/b B款/set 年金保险/i (/w 分红型/ty )/w 
+泰康/co 健康人生/b C款/set 两全保险/i 
+泰康/co 全能保/b C款/set 两全保险/i 
+泰康/co 幸福人生/b B款/set 年金保险/i (/w 分红型/ty )/w 
+泰康/co 盈利宝/b 年金保险/i 
+泰康/co 优雅人生/b 年金保险/i (/w 分红型/ty )/w 
+泰康/co 附加/add 幸福成长/b 年金保险/i (/w 万能型/ty )/w 
+泰康/co 附加/add 健康人生/b C款/set 重大疾病保险/i 
+泰康/co e康/b C款/set 两全保险/i 
+泰康/co e理财/b B款/set 终身/t 寿险/i (/w 投资连结型/ty )/w 
+泰康/co e理财/b C款/set 终身/t 寿险/i (/w 投资连结型/ty )/w 
+泰康/co 畅赢人生/b 年金保险/i (/w 分红型/ty )/w 
+泰康/co 附加/add e康/b C款/set 重大疾病保险/i 
+泰康/co 附加/add 积极成长/b 年金保险/i (/w 万能型/ty )/w 
+泰康/co 附加/add 基本/if 恶性肿瘤/ct 疾病保险/i 
+泰康/co 附加/add 康佑人生/b 重大疾病保险/i 
+泰康/co 附加/add 乐鑫/b 年金保险/i (/w 万能型/ty )/w 
+泰康/co 附加/add 日日鑫/b 年金保险/i (/w 万能型/ty )/w 
+泰康/co 附加/add 钻石账户/ob 年金保险/i (/w 万能型/ty )/w 
+泰康/co 驾驶乘务人员/ob 团体/ob 意外伤害保险/i E款/set 
+泰康/co 交通工具乘客/ob 团体/ob 意外伤害保险/i E款/set 
+泰康/co 康佑人生/b 两全保险/i (/w 分红型/ty )/w 
+泰康/co 睿赢/b 年金保险/i (/w 分红型/ty )/w 
+泰康/co 旺财1号/b 年金保险/i (/w 万能型/ty )/w 
+泰康/co 祥云吉顺/b B款/set 意外伤害保险/i 
+泰康/co 祥云吉顺/b C款/set 意外伤害保险/i 
+泰康/co 祥云佳泰/b 恶性肿瘤/ct 疾病保险/i 
+泰康/co 鑫享人生/b 年金保险/i (/w 分红型/ty )/w 
+泰康/co 旺财1号/b B款/set 两全保险/i (/w 万能型/ty )/w 
+泰康/co 无忧/b 意外伤害保险/i 
+泰康/co 盈泰/b B款/set 年金保险/i 
+泰康/co 盈泰/b C款/set 年金保险/i 
+泰康/co 盈泰/b D款/set 年金保险/i 
+泰康/co 盈泰/b E款/set 养老/ct 年金保险/i 
+e顺/b 白血病/ct 疾病保险/i 
+e顺/b 轻症/ct 疾病保险/i 
+e顺/b 重大疾病保险/i 
+附加/add 祥云康/b 意外伤害保险/i 
+附加/add 祥云康/b 意外/if 住院津贴/ct 医疗保险/i 
+泰康/co 附加/add 黑钻账户/ob 两全保险/i (/w 万能型/ty )/w 
+泰康/co 附加/add 健康无忧/b 住院费用/ct 医疗保险/i 
+泰康/co 甜蜜人生/b A款/set 特定疾病保险/i 
+祥云康意/b 两全保险/i 
+泰康/co 附加/add 金账户/ob 年金保险/i (/w 万能型/ty )/w 
+泰康/co 附加/add 乐相伴/b 豁免保险费/ct 重大疾病保险/i 
+泰康/co 附加/add 钻石账户/ob 年金保险/i (/w 万能型/ty )/w 
+泰康/co 健康尊享/b 医疗保险/i 
+泰康/co 乐安康/b 终身/t 重大疾病保险/i 
+泰康/co 旺财1号/b C款/set 两全保险/i (/w 万能型/ty )/w 
+泰康/co 附加/add 全能宝贝/b A款/set 重大疾病保险/i 
+泰康/co 附加/add 全能宝贝/b B款/set 住院津贴/ct 医疗保险/i 
+泰康/co 全能宝贝/b A款/set 两全保险/i 
+泰康/co 全能宝贝/b B款/set 两全保险/i 
+泰康/co 附加/add 积极成长/b 年金保险/i (/w 万能型/ty )/w 
+泰康/co 附加/add 投保人/ob 意外/if 豁免保险费/ct 定期/t 寿险/i 
+泰康/co 尊享岁月/b 养老/ct 年金保险/i (/w 分红型/ty )/w 
+泰康/co 附加/add 乐无忧/b 住院费用/ct 医疗保险/i 
+泰康/co 幸福金升/b 年金保险/i (/w 分红型/ty )/w 
+泰康/co 附加/add 共享/b 两全保险/i (/w 分红型/ty )/w 
+泰康/co e顺人生/b 年金保险/i (/w 分红型/ty )/w 
+泰康/co 鑫稳赢/b 年金保险/i 
+泰康/co 健康尊享/b B款/set 医疗保险/i 
+泰康/co e康/b D款/set 两全保险/i 
+泰康/co e康/b 豁免保险费/ct 疾病保险/i 
+泰康/co 附加/add e康/b D款/set 重大疾病保险/i 
+泰康/co 安康无忧/b 住院费用/ct 医疗保险/i 
+泰康/co 城镇职工/ob 大病/ct 团体/ob 医疗保险/i (/w A型/b )/w 
+泰康/co 城镇职工/ob 大病/ct 团体/ob 医疗保险/i (/w B型/b )/w 
+泰康/co 附加/add 积极成长/b 年金保险/i (/w 万能型/ty )/w 
+泰康/co 附加/add 金账户/ob 年金保险/i (/w 万能型/ty )/w 
+泰康/co 附加/add 无忧相伴/b 重大疾病保险/i 
+《/w 泰康/co 附加/add 基本/if A款/set 意外伤害保险/i 》/w 
+《/w 泰康/co 附加/add 祥佑金生/b 重大疾病保险/i 》/w 
+《/w 泰康/co 祥佑金生/b 终身/t 寿险/i 》/w 
+泰康/co 福寿一生/b B款/set 终身/t 寿险/i 
+泰康/co 基本/if A款/set 住院津贴/ct 医疗保险/i 
+泰康/co 乐赢家/b 终身/t 寿险/i 
+泰康/co 附加/add 康护一生/b 重大疾病保险/i 
+泰康/co 附加/add 尊享呵护/b 长期/t 护理保险/i 
+泰康/co 康护一生/b 两全保险/i 
+泰康/co 全能宝贝/b B款/set 两全保险/i 
+泰康/co 悦行无忧/b 两全保险/i 
+泰康/co 臻爱健康/b 重大疾病保险/i 
+泰康/co 尊享世家/b 终身/t 寿险/i 
+泰康/co e康/b C款/set 两全保险/i 
+泰康/co e理财/b E款/set 年金保险/i (/w 投资连结型/ty )/w 
+泰康/co 附加/add 全能保/b 2017/v 重大疾病保险/i 
+泰康/co 附加/add 全心全意/b A款/set 重大疾病保险/i 
+泰康/co 附加/add 全心全意/b B款/set 住院津贴/ct 医疗保险/i 
+泰康/co 健康人生/b D款/set 两全保险/i 
+泰康/co 全能保/b 2017/v 两全保险/i 
+泰康/co 全心全意/b A款/set 两全保险/i 
+泰康/co 全心全意/b B款/set 两全保险/i 
+泰康/co 赢家理财/b D款/set 年金保险/i (/w 投资连结型/ty )/w 
